@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat Regular', sans-serif;
+}
+img{
+    display:block;
+    max-width: 100%;
+
+}
+a:hover {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h6 {
+    margin: 0;
+}
+
+
+
+
+
+/*Header start  */
+.Logo {
+    max-width: 178px;
+    max-height: 66px;
+}
+
+/*Header end  */
+
+/* Menu start */
+
+
+/* Menu end */
+
+/* <Form start */
+
+/* <Form end */
+
+
+
+/* Feed_back start */
+.owl-carousel__item-feedback {
+    max-width: 555px;
+    max-height: 271px;
+}
+
+/* Feed_back end */
+
+
+/* Guarantees start */
+.wrapper-guarantees {
+    display: flex;
+    max-width: 100px;
+
+}
+
+/* Guarantees end */
+
+
+/* Work_with start */
+
+/* Work_with end */
+
+
+
+
+
+/* Last_news start */
+.latest_news{
+
+}
+/* Last_news end */
+
+
+
+
+
+
+
+@media (min-width: 576px) {}
+
+
+@media (min-width: 768px) {}
+
+
+@media (min-width: 992px) {}
+
+
+@media (min-width: 1200px) {}
